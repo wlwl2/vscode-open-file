@@ -12,6 +12,7 @@ https://code.visualstudio.com/api/extension-guides/tree-view
 
 https://code.visualstudio.com/api/references/vscode-api
 
+The tree view might be called 'sidebar' in VS Code.
 
 ## Features
 
